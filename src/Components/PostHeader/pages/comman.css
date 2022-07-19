@@ -1,0 +1,26 @@
+.location__container {
+  position: relative;
+  margin-top: 40px;
+}
+
+.location__input {
+  width: 100%;
+  height: 30px;
+  margin-left: 20px;
+  outline: none;
+  border: none;
+  padding-left: 30px;
+  border-bottom: 1px solid black;
+}
+
+.location__Icons {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+}
+
+.pencil__Icons {
+  position: absolute;
+  top: 5px;
+  right: -15px;
+}
